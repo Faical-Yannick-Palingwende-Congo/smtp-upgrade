@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="3.2.1"><request><http-version>1.1</http-version><http-follow-redirects/><URL>http://127.0.0.1:8080/drop/account/register</URL><method>POST</method><body><string content-type="application/json" charset="UTF-8">{
+  "stamp":"20140329143750",
+  "payload":
+  {
+   "email":"developer1@drop.com",
+   "password":"dropAdmin042014",
+   "number":"2404221019",
+   "scope":
+   {
+    "group":"ADMIN",
+    "key":"995f70d1f80562b6480ae5e3734dd1a3e3130115d47938327fed7e8e53fee5fb"
+   }
+  }
+}</string></body></request></rest-client>

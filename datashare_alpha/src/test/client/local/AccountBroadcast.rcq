@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="3.2.1"><request><http-version>1.1</http-version><http-follow-redirects/><URL>http://127.0.0.1:8080/drop/account/broadcast</URL><method>POST</method><body><string content-type="application/json" charset="UTF-8">{
+  "stamp":"20140329143750",
+  "payload":"d5ca59767abce306758bfe1a0b4162ade4f1485c954881f00807823013f7a684#text#Drop NewsPaper April 2014#Drop is setup to be launched in two months. Help us build our traction by talking about us around you. Are you ready to drop anywhere? :)"
+}</string></body></request></rest-client>

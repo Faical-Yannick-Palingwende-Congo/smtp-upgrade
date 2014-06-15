@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="3.2.1"><request><http-version>1.1</http-version><http-follow-redirects/><URL>http://127.0.0.1:8080/datashare_alpha/data/push_hack</URL><method>POST</method><body><string content-type="application/json" charset="UTF-8">{
+  "stamp":"14256704172014",
+  "payload":
+  {
+    "stamp":"17042014215010395",
+    "sender":"user1@host1.com",
+    "source":"http://127.0.0.1:8080/datashare_alpha/data/push_trust",
+    "destinator":"user1@host2.com",
+    "destination":"http://127.0.0.1:8080/datashare_beta/data/receive",
+    "content":"Hello User1 from Host2. Check this out. Can you trust me? You should not because i am attacking with a tricky key.",
+    "au_key":"347b58cf941c589d1b960f17da88b85aa589f9e61b4943846a26f9f855ae6745"
+  }
+}</string></body></request></rest-client>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="3.2.1"><request><http-version>1.1</http-version><http-follow-redirects/><URL>http://127.0.0.1:8080/drop/account/recover</URL><method>POST</method><body><string content-type="application/json" charset="UTF-8">{
+  "stamp":"20140329143750",
+  "payload":"d4754ce25d545f033d4e033f08732df172dee8127c04b6b90bc3750cd1c502fa#Palin1987"
+}</string></body></request></rest-client>

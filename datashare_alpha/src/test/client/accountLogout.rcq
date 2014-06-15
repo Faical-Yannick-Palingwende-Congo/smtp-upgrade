@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="3.2.1"><request><http-version>1.1</http-version><http-follow-redirects/><URL>http://127.0.0.1:8080/datashare_alpha/account/logout</URL><method>POST</method><body><string content-type="application/json" charset="UTF-8">{
+  "stamp":"14256704172014",
+  "payload":
+  {
+    "key":"4bcf90720a0d708dafa104b8a32fd65670640019fb72b9b0a91c2b8d95002a33"
+  }
+}</string></body></request></rest-client>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="3.2.1"><request><http-version>1.1</http-version><http-follow-redirects/><URL>http://127.0.0.1:8080/drop/account/contactus</URL><method>POST</method><body><string content-type="application/json" charset="UTF-8">{
+  "stamp":"20140329143750",
+  "payload":"yannick.congo@gmail.com#Amzing!#I really what you guys are doing. I wish you all the best."
+}</string></body></request></rest-client>

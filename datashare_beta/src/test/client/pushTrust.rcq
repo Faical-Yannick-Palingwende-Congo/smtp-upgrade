@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="3.2.1"><request><http-version>1.1</http-version><http-follow-redirects/><URL>http://127.0.0.1:8080/datashare_beta/data/push_trust</URL><method>POST</method><body><string content-type="application/json" charset="UTF-8">{
+  "stamp":"14256704172014",
+  "payload":
+  {
+    "token":"c1efe1df5c172a04734c8993d173a431b5d08fc3ca2779244d170ef44688c704",
+    "stamp":"17042014215010395",
+    "sender":"user1@host2.com",
+    "source":"http://127.0.0.1:8080/datashare_beta/data/push_trust",
+    "destinator":"user1@host1.com",
+    "destination":"http://127.0.0.1:8080/datashare_alpha/data/receive",
+    "content":"Hello User1 from Host1. Check this out. Can you trust me then?"
+  }
+}</string></body></request></rest-client>
